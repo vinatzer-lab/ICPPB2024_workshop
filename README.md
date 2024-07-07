@@ -9,8 +9,8 @@ Genomics and Metagenomics workshop for pathogen identification
 
 - ### Part3: Intro to metagenome-based pathogen identification using LINtax
   This module covers metagenome classification and introduces LINtax as a method for metagenome-based pathogen identification.
-    Notes: 
-    Interactive demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parul-sharma/2024ICPPB-workshop/main)
+   -  Notes: 
+   -  Interactive demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parul-sharma/2024ICPPB-workshop/main)
 
 
 - ### Part4: Metagenome-based pathogen identification using sourmash
