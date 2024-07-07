@@ -12,6 +12,7 @@ Genomics and Metagenomics workshop for pathogen identification
    -  Notes: [LINK](https://hackmd.io/Iz8wZZirRQWyzzR2kQh1QQ)
    -  Interactive demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parul-sharma/2024ICPPB-workshop/main)
 
-
 - ### Part4: Metagenome-based pathogen identification using sourmash
   This module covers metagenome-based pathogen identification using sourmash and introduces Branchwater for large-scale sequence search.
+    - Interactive demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bluegenes/2024-icppb/HEAD?labpath=sourmash-icppb-demo.ipynb)
+    - Markdown version (for completing demo on your own machine instead) [LINK](https://hackmd.io/@bluegenes/Sk-sZ03LA)
